@@ -8,29 +8,30 @@ Nice to meet you! I'm a software developer, originally from Cairo,Egypt. I love 
 - ⚡ Quote: There is always time. You just have to find it.
 
 - 📫 How to reach me:<p align="left">
-<a href="https://www.linkedin.com/in/hassan-gadou-72412b2a/">
-<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
-<a href="https://www.instagram.com/hgado11/">
-<img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a> 
-</p>
 
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-HassanGadou-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/hassan-gadou-72412b2a/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/hgado11/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/hgado11)
+[![Twitter: hgado11](https://img.shields.io/twitter/follow/Hgado11?style=social)](https://twitter.com/hgado11)
+
+[![GitHub hgado11](https://img.shields.io/github/followers/hgado11?label=follow&style=social)](https://github.com/hgado11)
 
 <hr>
 
  
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
-<details>
-![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hgado11&count_private=true&show_icons=true&include_all_commits=true&theme=vue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hgado11&theme=vue) 
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+<img alt="center" src="https://github-readme-stats.vercel.app/api?username=hgado11&count_private=true&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" />
+<img alt="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgado11&theme=vuehide_border=true" />
 </details>
+
 <hr>
-<hr>
+
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
+
 <!--END_SECTION:waka-->
 
 <hr>
