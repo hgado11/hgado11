@@ -31,7 +31,9 @@ Nice to meet you! I'm a software developer, originally from Cairo,Egypt. I love 
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
-
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <hr>
